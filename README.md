@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @madhusamba
-- 👀 I’m interested in ...learning github 
-- 🌱 I’m currently learning ... DevOps 
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ...learning github and Github actiones 
+- 🌱 I’m currently learning ... DevOps - Kubernetes 
+- 💞️ I’m looking to collaborate on ... DevOps learning platforms 
 - 📫 How to reach me ...mail tech.itvizag@gmail.com
 
 <!---
